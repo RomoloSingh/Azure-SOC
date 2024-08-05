@@ -64,7 +64,6 @@ Stop Time	2023-03-19 15:37
 | Syslog                   | 25
 | SecurityAlert            | 0
 | SecurityIncident         | 0
-| AzureNetworkAnalytics_CL | 0
 
 ## Conclusion
 
