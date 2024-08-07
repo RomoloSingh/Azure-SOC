@@ -34,6 +34,7 @@ For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL t
 ![Microsoft SQL Server (MSSQL) Auth Failures](https://i.imgur.com/BdObjli.png)<br>
 ![Linux Syslog Auth Failures](https://i.imgur.com/9id3zaT.png)<br>
 ![Windows RDP/SMB Auth Failures](https://i.imgur.com/z8Hk7Id.png)<br>
+![NSG Allowed Inbound Malicious Flows](https://i.imgur.com/Nogy9EP.png)<br>
 
 ## Metrics Before Hardening / Security Controls
 
