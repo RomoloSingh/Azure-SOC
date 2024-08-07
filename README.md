@@ -53,7 +53,9 @@ Stop Time 2024-08-4 20:52:57
 
 ## Attack Maps Before Hardening / Security Controls
 
-```All map queries actually returned no results due to no instances of malicious activity for the 24 hour period after hardening.```
+![Linux Syslog Auth Failures](https://i.imgur.com/dWhUgO2.png)<br>
+
+```All other map queries actually returned no results due to no instances of malicious activity for the 24 hour period after hardening.```
 
 ## Metrics After Hardening / Security Controls
 
